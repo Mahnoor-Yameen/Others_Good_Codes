@@ -1,0 +1,82 @@
+in sab k codes apni repo main dhal do
+
+
+1
+
+iska home ka card acha ha
+https://github.com/AtiqaPasha/MernProjectBQ.git
+
+
+https://pear-tense-jaguar.cyclic.app/
+------------------------------------------------------------------------------
+2
+
+
+iski ui achi ha choty choty fearures nikal skty hain 
+https://github.com/waniakhan/MERN-Stack-project
+
+
+
+
+---------------------------------------------------------------------------------
+3
+
+iska footer acha ha and sath hi home pe jo ek row lagi hui ha for smartphonnes wo achi hai
+https://github.com/Shumaimaf/E-Commerce-Website
+
+
+-------------------------------------------------------------------------------
+4
+
+iska banner acha ha khud hi move bhi ho raha
+https://github.com/Noorulainshoaib/Final-Project.git
+-----------------------------------------------------------------------------------------
+5
+
+isny banner main 1 chez lagayi ha and usmain shop buttton ha plus image k uper text ha
+footer main links boht achy lagaye huay hain links pe click karo to pop ho rahy
+signup pe password 8 char maang raha 
+onclicikng signup loader chal raha
+https://github.com/AfifaEjaz/Mern-APP
+
+--------------------------------------------------------------------------------------------------
+6
+
+favicon lagaya hua ha
+product page pe product cards bohot achy se lagy huay, hover pe uper bhi arahy
+single product page bohot acha bana hua ha
+https://github.com/irshad0075/Arshi-Rovers.git
+----------------------------------------------------------------------------------------------------
+
+
+7
+
+login signup button acha ha
+banner image achi lag rahi basically burger website ha
+logo acha lagaya hua 
+login signup animation pyari hai 
+https://github.com/AlishbaAamir/Online-Food-App.git
+--------------------------------------------------------------------------------------------------------
+8
+
+
+
+products page bohot cleans and pyara hai
+single peoduct page bohot zabardast ha product review system bhi pura proper work kr raha main j oreview de rahi wo add ho raha with my username
+homepage pe search laga hua ha and it is actually working product name se match krwa raha yeh phir la raha
+
+https://github.com/quratulainaqeel/BQ-MERN-STACK-APP.git
+
+
+----------------------------------------------------------------------------------------------
+9
+
+isny filter and search lagaya hua ha best book ki website ha yeh
+https://github.com/umairayub-dev/BooksHarbor.git
+
+---------------------------
+10
+
+
+card opening animation jewelery wali web jaisi
+https://github.com/falakk123/bQ-Final-Project.git

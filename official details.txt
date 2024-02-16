@@ -1,0 +1,29 @@
+mongodb:
+zDXfRMudNwzFISIx
+mahnooryameen22
+
+
+mongodb+srv://mahnooryameen22:<password>@cluster0.awbgvmf.mongodb.net/?retryWrites=true&w=majority
+
+
+
+
+FIREBASE:
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyARR1Bu5_sHYbV4t58SJToNt0QMbkrWD7c",
+  authDomain: "extra-73840.firebaseapp.com",
+  projectId: "extra-73840",
+  storageBucket: "extra-73840.appspot.com",
+  messagingSenderId: "994381431090",
+  appId: "1:994381431090:web:fa1d3a2d9e555da5b0972b"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
